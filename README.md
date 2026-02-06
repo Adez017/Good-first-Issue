@@ -65,6 +65,7 @@ Thank you to all the amazing people who have contributed to this project! Add yo
 
 - [Aditya Singh Rathore](https://github.com/Adez017)
 
+
 ## 📜 Code of Conduct
 
 Please note that this project is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md). By participating in this project, you agree to abide by its terms.
