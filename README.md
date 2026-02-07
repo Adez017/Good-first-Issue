@@ -188,6 +188,7 @@ Your Pull Request will be reviewed and merged soon. Once merged, your name will 
 **These amazing people have completed their first contribution!** 🎯
 
 - [Aditya Singh Rathore](https://github.com/Adez017)
+- [Adithya S](https://github.com/Aditya-SRK)
 
 
 
